@@ -5,7 +5,7 @@ Each folder pertains to the chapter on the website. If there is a folder missing
 
 ## crcpp | compire-run-cpp
 
-This script takes the name of a single .cpp file, compiles it using g++ and runs the file in the current directory.
+This script takes the name of a single `.cpp` file, compiles it using g++ and runs the file in the current directory.
 
 ### Usage:
 `crcpp <filename (no extention)>` - Compiles and runs the `.cpp` file with the same name.<br>
